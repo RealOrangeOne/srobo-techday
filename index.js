@@ -5,6 +5,6 @@ $('#date').text(
 
 setInterval(function(){
   $('#time').text(
-    moment().format('hh:mm:ss')
+    moment().format('HH:mm:ss')
   );
 }, 1000);
