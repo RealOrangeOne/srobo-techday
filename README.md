@@ -1,2 +1,3 @@
-# srobo-techday
-SR Techday welcome screen
+# SROBO-Techday
+
+Student Robotics Tech Day welcome screen.
