@@ -12,13 +12,17 @@ html, body {
   background-color: #f5f3f4;
 }
 
-h1, h2, h31 {
+h1, h2, h3 {
   color: #243373;
   font-family: "Oswald", sans-serif;
   font-weight: normal;
   text-transform: uppercase;
 }
 #logo {
-  height: 30vh;
+  height: 35vh;
   padding: 10px;
+}
+
+#social {
+  margin-top: 30vh;
 }

@@ -4,9 +4,7 @@ $('#date').text(
 );
 
 setInterval(function(){
-  $('#time').each(function () {
-    $(this).text(
-      moment().format('hh:mm:ss')
-    )
-  });
+  $('#time').text(
+    moment().format('hh:mm:ss')
+  );
 }, 1000);
