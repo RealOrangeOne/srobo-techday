@@ -1,20 +1,15 @@
 @import url("https://fonts.googleapis.com/css?family=Oswald:400,700");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
-@import url("https://fonts.googleapis.com/css?family=Oswald:400,700");
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
-@import url("https://fonts.googleapis.com/css?family=Oswald:400,700");
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
-
 
 html, body {
   margin: 0 auto;
   text-align: center;
   background-color: #f5f3f4;
+  font-family: "Open Sans", sans-serif;
 }
 
 h1, h2, h3 {
   color: #243373;
-  font-family: "Oswald", sans-serif;
   font-weight: normal;
   text-transform: uppercase;
 }
