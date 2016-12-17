@@ -6,7 +6,7 @@ html, body {
   overflow: hidden;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5 {
   color: #243373;
   font-weight: normal;
   text-transform: uppercase;
@@ -21,8 +21,21 @@ h1, h2, h3 {
   padding-top: 5vh;
 }
 
+#hashtag h5 {
+  color: #de6400;
+  margin: 0;
+}
+
+#hashtag h1 {
+  margin-top: 10px;
+}
+
 #social {
   margin-top: 10vh;
+}
+
+#social h4 {
+  text-transform: none;
 }
 
 iframe {
