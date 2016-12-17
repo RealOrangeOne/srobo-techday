@@ -13,12 +13,16 @@ h1, h2, h3 {
   font-family: "Oswald", sans-serif;
 }
 #logo {
-  height: 35vh;
   padding: 10px;
+  padding-top: 5vh;
+}
+
+#hashtag {
+  padding-top: 5vh;
 }
 
 #social {
-  margin-top: 30vh;
+  margin-top: 10vh;
 }
 
 iframe {
